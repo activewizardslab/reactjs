@@ -1,0 +1,15 @@
+{
+  "name": "ReactSurvey",
+  "version": "0.0.0",
+  "homepage": "https://github.com/yaroslav-dudar/ReactSurvey",
+  "authors": [
+    "Yaroslav <flayingfog@gmail.com>"
+  ],
+  "dependencies": {
+    "react": "15.0.1",
+    "react-bootstrap": "0.29.2",
+    "bootstrap": "3.3.6",
+    "dragula": "latest"
+  },
+  "license": "MIT"
+}

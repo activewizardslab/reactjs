@@ -1,0 +1,52 @@
+.slider div:nth-child(n+2) {
+    border-radius:50%;
+    top: 10px;
+    position:absolute;
+    width:15px;
+    height:15px;
+    background-color: #ccc;
+    cursor: pointer;
+    border: solid 1px;
+}
+
+.slider .not_valid_rate {
+    left:0%;
+}
+
+.slider .irrelevant_rate {
+    left:25%;
+}
+
+.slider .weak_rate {
+    left:50%;
+}
+
+.slider .okay_rate {
+    left:75%;
+}
+
+.slider .strong_rate {
+    left:100%;
+}
+
+.slider_track {
+    width: 100%;
+    top: 16px;
+    position: absolute;
+    border: solid 2px #ccc;
+}
+
+.slider .selected {
+    background-color: #337AB7 !important;
+}
+
+.slider_labels div {
+    display: inline-block;
+    width: 20%;
+}
+
+.slider {
+    height: 30px;
+    margin-left: 25px;
+    margin-right: 50px;
+}

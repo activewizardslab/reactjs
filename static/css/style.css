@@ -1,0 +1,30 @@
+.argumentNode {
+    min-height: 50px;
+    background-color: #ccc;
+    background-clip:content-box;
+}
+
+.argumentNode p {
+    margin: 5px;
+}
+
+#argument_list {
+    font-weight: bold;
+    color: #989898;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+/* Argument rate page */
+#argument_rate_list, #argument_unordered_list, #trash {
+    min-height: 50px;
+    border: solid 1px;
+}
+
+#argument_rate_list div, #argument_unordered_list div{
+    min-height: 50px;
+    border: solid 1px;
+}
