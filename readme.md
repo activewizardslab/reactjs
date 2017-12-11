@@ -1,3 +1,3 @@
 Demo
 ===========
-- http://demo.activewizards.com/awo184/rank_arguments.html
+- http://demo.activewizards-demos.com/awo184/rank_arguments.html
